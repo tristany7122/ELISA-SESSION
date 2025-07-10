@@ -85,7 +85,7 @@ var randomItem = selectRandomItem(items);
 
 > Join WhatsApp Channel :- ⤵️
  
-https://whatsapp.com/channel/0029Vb6KS7MGk1FnsSiliX0P
+https://whatsapp.com/channel/0029VbAsVFh2phHUOXErCs28
 
 Dont forget to fork the repo ⬇️
 
@@ -98,7 +98,7 @@ contextInfo: {
 externalAdReply: {
 title: "QUEEN ELISA MULTIDEVICE WHATSAPP BOT",
 thumbnailUrl: "https://files.catbox.moe/vqbyeu.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029Vb6KS7MGk1FnsSiliX0P",
+sourceUrl: "https://whatsapp.com/channel/0029VbAsVFh2phHUOXErCs28",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
@@ -114,7 +114,7 @@ contextInfo: {
 externalAdReply: {
 title: "QUEEN ELISA MULTIDEVICE WHATSAPP BOT",
 thumbnailUrl: "https://files.catbox.moe/vqbyeu.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029Vb6KS7MGk1FnsSiliX0P",
+sourceUrl: "https://whatsapp.com/channel/0029VbAsVFh2phHUOXErCs28",
 mediaType: 2,
 renderLargerThumbnail: true,
 showAdAttribution: true
