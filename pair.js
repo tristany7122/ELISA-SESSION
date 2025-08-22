@@ -75,25 +75,26 @@ var randomItem = selectRandomItem(items);
                         const { upload } = require('./mega');
                         const mega_url = await upload(fs.createReadStream(rf), `${sock.user.id}.json`);
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
-                        let md = "Q-ELISA~" + string_session;
+                        let md = "QUEENELISA;;;==" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
                         let desc = `*Hello there ! 👋🏻* 
 
 > Do not share your session id with anyone.
 
  *Thanks for using Queen Elisa 🚩* 
+
 Dont forget to fork the repo ⬇️
 
 https://github.com/tristany7122/QUEEN-ELISA-MD
 
-> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Tristan™*`; 
+> *© _ᴘᴏᴡᴇʀᴇᴅ ʙʏ Tristan_*`; 
                         await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
 title: "QUEEN ELISA MULTIDEVICE WHATSAPP BOT",
-thumbnailUrl: "https://files.catbox.moe/vqbyeu.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029VbAsVFh2phHUOXErCs28",
+thumbnailUrl: "https://i.ibb.co/D39jtpk/temp.jpg",
+sourceUrl: "",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
